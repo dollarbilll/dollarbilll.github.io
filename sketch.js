@@ -183,7 +183,7 @@ function draw() {
     } else {
     fill(255,0);
     }
-    text("- Design -", 100, 320);
+    text("- Design -", 150, 320);
   }
   if (stateA==1 && blink4==0){
     loop4.loop();
