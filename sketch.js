@@ -157,7 +157,7 @@ function draw() {
   	 translate(0,0);
   	 rotate(-PI/2);
   	 textSize(15);
-  	 textFont("Georgia");
+  	 textFont("Helvetica");
      fill(0);
      noStroke();
      text('William Hallett', -height/2 - 150, 15);
@@ -166,7 +166,7 @@ function draw() {
   	 
    //}
   
-  textFont("Arial");
+  textFont("Helvetica");
   
    //top left mouseover   
   if (bubblestate1==1) {
@@ -183,7 +183,7 @@ function draw() {
     } else {
     fill(255,0);
     }
-    text("- Technology -", 100, 320);
+    text("- Design -", 100, 320);
   }
   if (stateA==1 && blink4==0){
     loop4.loop();
