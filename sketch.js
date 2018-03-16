@@ -103,7 +103,7 @@ function setup() {
   
   
   //technology anchor
-  anchor1 = createA('https://williamfhallett.wordpress.com/technology/', '', '_blank');
+  anchor1 = createA('https://williamfhallett.wordpress.com/design/', '', '_blank');
   anchor1.position(100, 280);
   anchor1.size(270, 50);
   anchor1.hide();
